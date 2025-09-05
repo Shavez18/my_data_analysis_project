@@ -1,0 +1,14 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# Data files
+*.csv
+*.xlsx
+
+# Model files
+*.pkl
+*.h5
